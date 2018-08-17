@@ -1,7 +1,7 @@
 {
-  "name": "speakeasy",
+  "name": "@xourse/speakeasy",
   "description": "Two-factor authentication for Node.js. One-time passcode generator (HOTP/TOTP) with support for Google Authenticator.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": {
     "name": "Mark Bao & Speakeasy Contributors",
     "email": "mark@markbao.com"
@@ -13,8 +13,8 @@
     "name": "Guy Halford-Thompson",
     "email": "guy@cach.me"
   }],
-  "homepage": "http://github.com/speakeasyjs/speakeasy",
-  "bugs": "https://github.com/speakeasyjs/speakeasy/issues",
+  "homepage": "http://github.com/XourseDev/speakeasy",
+  "bugs": "https://github.com/XourseDev/speakeasy/issues",
   "keywords": [
     "authentication",
     "google authenticator",
@@ -31,7 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/speakeasyjs/speakeasy.git"
+    "url": "git://github.com/XourseDev/speakeasy.git"
   },
   "main": "index.js",
   "engines": {
